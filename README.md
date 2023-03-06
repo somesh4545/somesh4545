@@ -28,5 +28,5 @@
 
 ## 📞 Contact Me
 * Email Id: someshsomani457@gmail.com
-* LinkedIn : [Somesh Somani](www.linkedin.com/in/somesh-somani-29aa451b4)
+* LinkedIn : [Somesh Somani](https://www.linkedin.com/in/somesh-somani-29aa451b4)
 * Instagram : [@somesh_4507](https://www.instagram.com/somesh_4507/)
