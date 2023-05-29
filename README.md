@@ -4,7 +4,7 @@
 
 <h4 align="center">Full Stack Web Developer | UI Designer | PICT IT '25 </h4>
 <br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh4545&title=Stars,Followers" alt="somesh-somani" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh4545&title=Commit,Repo,Followers,Stars&row=1&column=4&theme=darkhub&margin-w=15" alt="somesh-somani" /></a> </p>
 
 
 <br/>
